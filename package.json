@@ -18,9 +18,7 @@
     "lint": "tsdx lint src test",
     "build": "tsdx build",
     "start": "tsdx watch",
-    "test": "tsdx test",
-    "prepare": "tsdx build",
-    "postinstall": "tsdx build"
+    "test": "tsdx test"
   },
   "dependencies": {
     "@uniswap/v2-core": "^1.0.0",
